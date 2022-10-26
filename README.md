@@ -1,8 +1,8 @@
 ### Olá, eu sou o Mateus Rezende 👋
 
-🔭 Atualmente estou buscando por uma vaga de desenvolvedor front-end;
+🔭 Estou buscando por uma vaga de desenvolvedor front-end;
 
-🌱 Atualmente estou aprendendo a biblioteca React e tambémo TypeScript;
+🌱 Tenho conhecimentos em HTML, CSS, JS e atualmente estou aprendendo a biblioteca React e tambémo TypeScript;
 
 😄 Pronouns: ele/dele...
 
