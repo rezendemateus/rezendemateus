@@ -2,7 +2,7 @@
 
 🔭 Estou buscando por uma vaga de desenvolvedor front-end;
 
-🌱 Tenho conhecimentos em HTML, CSS, JS e atualmente estou aprendendo a biblioteca React e tambémo TypeScript;
+🌱 Tenho conhecimentos em HTML, CSS, JS e atualmente estou aprendendo a biblioteca React e TypeScript;
 
 😄 Pronouns: ele/dele...
 
