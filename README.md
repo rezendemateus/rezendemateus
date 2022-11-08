@@ -1,16 +1,13 @@
-### Olá, eu sou o Mateus Rezende 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-🔭 Atualmente estou buscando por uma vaga de desenvolvedor front-end;
-
-🌱 Tenho conhecimentos em HTML, CSS, JS e atualmente estou aprendendo a biblioteca React e TypeScript;
-
-😄 Pronouns: ele/dele...
-
-<div align="center">
-  <a href="https://github.com/rezendemateus">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=rezendemateus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark&show_icons=true"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Mateus+Rezende;Tenho+24+anos;Sou+desenvolvedor+front+end;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+  
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rezendemateus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Rezende github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezendemateus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rezendemateus&theme=gotham&hide_border=true&area=true)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
